@@ -1,0 +1,6 @@
+#requiredplugins-overlay { position: absolute; top: 0; left: 0; background: white; width: 100%; height: 100%; filter:alpha(opacity=90); opacity: 0.90; -moz-opacity:0.90; }
+#requiredplugins-list { position: absolute; top: 100px; left: 100px; font-family: Georgia, sans-serif; font-size: 2.2em; text-align: left; }
+  #requiredplugins-list span { display: block; font-size: 0.6em; color: #333333; padding-top: 10px; }
+  #requiredplugins-list ul { margin-top: 50px; font-size: 0.8em; list-style: none; }
+    #requiredplugins-list ul li { margin-bottom: 30px; }
+      #requiredplugins-list ul li a { background: #D54E21; color: white; padding: 10px; text-decoration: none; margin-right: 30px; }
